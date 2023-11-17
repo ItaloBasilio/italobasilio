@@ -24,7 +24,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.instagram.com/italobasiliofficial/">
-      <img width="30" src="instagram.png">
+      <img width="25" src="instagram.png">
     </a>
     <a href = "https://www.linkedin.com/in/italobasilio/">
       <img width="25" src="linkedin.svg">
