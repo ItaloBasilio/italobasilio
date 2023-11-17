@@ -12,6 +12,8 @@
   <img align="center" alt="Italo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Italo-Node" height="30" width="40" src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4">
   <img align="center" alt="Italo-Wordpress" height="30" width="40" src="https://avatars.githubusercontent.com/u/276006?s=48&v=4">
+  <img align="center" alt="Italo-Bootstrap" height="30" width="40" src="https://github.com/twbs.png?size=40">
+  
   
   
 </div>
