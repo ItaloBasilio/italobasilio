@@ -33,4 +33,3 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/ItaloBasilio/ItaloBasilio/blob/output/github-contribution-grid-snake.svg)
