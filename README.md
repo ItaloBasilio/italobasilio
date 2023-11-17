@@ -23,7 +23,7 @@
     <a href = "mailto: italobasiliodasilva@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "mailto: italobasiliodasilva@gmail.com">
+    <a href = "https://www.instagram.com/italobasiliofficial/">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/italobasilio/">
