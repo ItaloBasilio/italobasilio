@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Software Engineer | MERN**
 
-- 💬 Ask me about **Software Engineer**
+- 💬 Ask me about **Software Engineer, Front End Engineer, Designer**
 
 - 📫 How to reach me **italobasiliodasilva@gmail.com**
 
 - 📄 Know about my experiences <br><br> A Full Stack Engineer in training, experienced in HTML, CSS, JavaScript, and focused on technologies like React, NodeJS, PostgreSQL, MongoDB, and Docker. A dedicated freelancer for over 3 years, with a focus on web development. <br>
 
-- ⚡ Fun fact **I like play a guitar, listen musics**
+- ⚡ Fun fact **Studying programming is a daily routine I have.I like listening to music, playing the guitar. I really like being with my family. Whenever I can, I like to watch documentaries about great businesspeople and how they grew, for example the creator of Google, Mc Donalds, Hershey, Kelloggs, Walt Disney.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
