@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **italobasiliodasilva@gmail.com**
 
-- 📄 Know about my experiences <br><br> A Full Stack Engineer in training, experienced in HTML, CSS, JavaScript, and focused on technologies like React, NodeJS, PostgreSQL, MongoDB, and Docker. A dedicated freelancer for over 3 years, with a focus on web development.](A Full Stack Engineer in training, experienced in HTML, CSS, JavaScript, and focused on technologies like React, NodeJS, PostgreSQL, MongoDB, and Docker. A dedicated freelancer for over 3 years, with a focus on web development. <br>
+- 📄 Know about my experiences <br><br> A Full Stack Engineer in training, experienced in HTML, CSS, JavaScript, and focused on technologies like React, NodeJS, PostgreSQL, MongoDB, and Docker. A dedicated freelancer for over 3 years, with a focus on web development. <br>
 
 - ⚡ Fun fact **I like play a guitar, listen musics**
 
