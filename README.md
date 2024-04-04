@@ -38,8 +38,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" width="50px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" width="50px">
 
-    ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+   
     
   
 </div>
 <br>
+
+ ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoBasilio&show_icons=true&theme=transparent)
