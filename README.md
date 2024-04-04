@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **italobasiliodasilva@gmail.com**
 
-- 📄 Know about my experiences <br><br> A Full Stack Engineer in training, experienced in HTML, CSS, JavaScript, and focused on technologies like React, NodeJS, PostgreSQL, MongoDB, and Docker. A dedicated freelancer for over 3 years, with a focus on web development. <br>
-
-- ⚡ Fun fact **Studying programming is a daily routine I have.I like listening to music, playing the guitar. I really like being with my family. Whenever I can, I like to watch documentaries about great businesspeople and how they grew, for example the creator of Google, Mc Donalds, Hershey, Kelloggs, Walt Disney.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,8 +19,10 @@
 <a href="https://instagram.com/italobasiliofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="italobasiliofficial" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=italobasilio&show_icons=true&locale=en" alt="italobasilio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=italobasilio&show_icons=true&locale=en&layout=compact" alt="italobasilio" /></p><br>
 
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg" width="50px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" width="55px">
@@ -38,10 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" width="50px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" width="50px">
 
-   
-    
-  
-</div>
-<br>
+</div><br>
 
- ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoBasilio&show_icons=true&theme=transparent)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=italobasilio&" alt="italobasilio" /></p>
+
