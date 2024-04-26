@@ -33,11 +33,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,css,javascript,react,mui,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,css,javascript,react,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,postgres,mysql" /><br>
 </div>
 
 <br/>
+
+<h2 align="center">⚒️ New Tools - Learning ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java" />
+</div>
 
 <hr/>
 
