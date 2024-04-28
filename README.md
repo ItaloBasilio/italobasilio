@@ -42,7 +42,7 @@
 <h2 align="center">⚒️ New Tools - Learning ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,python" />
 </div>
 
 <hr/>
